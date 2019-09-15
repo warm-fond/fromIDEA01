@@ -15,4 +15,10 @@ public class TestGit {
         System.out.println("然后提交到远程仓库");
     }
 
+    public void simulate2user(){
+        System.out.println("模拟两个ip，一个更新推送后，另一个拉取");
+        //此处为更新工程，推送到远程仓库
+    }
+
+
 }
