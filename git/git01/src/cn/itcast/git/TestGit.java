@@ -16,8 +16,9 @@ public class TestGit {
     }
 
     public void simulate2user(){
-        System.out.println("模拟两个ip，一个更新推送后，另一个拉取");
+        System.out.println("模拟两个ip，一个更新推送后，另一个克隆");
         //此处为更新工程，推送到远程仓库
+        //另一工程为克隆的工程，从远程仓库克隆到自己的工作区
     }
 
 
